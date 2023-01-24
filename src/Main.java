@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Some more output...");
 
         System.out.println("Testtestest...");
+
+        System.out.println("This is feature 1");
     }
 }
